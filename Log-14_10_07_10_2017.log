@@ -1,0 +1,14 @@
+2017-10-07 14:10:48,972 - LogAgent - INFO - ***** Initializing POS System *****
+2017-10-07 14:10:48,990 - LogAgent - INFO - DB connection successful :(('10.1.9-MariaDB',),)
+2017-10-07 14:10:52,544 - LogAgent - INFO - User has successfully logged into the application
+2017-10-07 14:10:52,573 - LogAgent - ERROR - price for product named, Chicken Shawarma is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,574 - LogAgent - ERROR - price for product named, Chicken Souvlaki is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,576 - LogAgent - ERROR - price for product named, Beef Donair is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,578 - LogAgent - ERROR - price for product named, Chicken/Beef is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,580 - LogAgent - ERROR - price for product named, Kafta is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,582 - LogAgent - ERROR - price for product named, Falafel is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,584 - LogAgent - ERROR - price for product named, Veggie is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,585 - LogAgent - ERROR - price for product named, Spaghetti is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,587 - LogAgent - ERROR - price for product named, Poutine is missing at lvl-2 in prod. hier.
+2017-10-07 14:10:52,588 - LogAgent - ERROR - price for product named, Rice Bowl is missing at lvl-2 in prod. hier.
+2017-10-07 14:11:00,675 - LogAgent - INFO - User has manually close the application
